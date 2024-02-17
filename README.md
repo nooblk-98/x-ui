@@ -51,7 +51,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.s
 
 ## Manual Install & Upgrade
 
-<details>
+<details> 
   <summary>Click for details</summary>
   
 ### Usage
